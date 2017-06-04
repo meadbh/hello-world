@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+My first repository.
+ I'm still trying to figure out what's going on.. Hopefully I'll understand soon!
